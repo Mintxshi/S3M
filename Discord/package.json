@@ -1,0 +1,22 @@
+{
+  "name": "s3md",
+  "version": "1.0.0",
+  "description": "S3M Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mintxshi/s3m.git"
+  },
+  "author": "Pika",
+  "license": "CC-BY-3.0",
+  "bugs": {
+    "url": "https://github.com/mintxshi/s3m/issues"
+  },
+  "homepage": "https://github.com/mintxshi/s3m#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
